@@ -11,8 +11,6 @@ jobs:
       with:
         node-version: '12.x'
         registry-url: 'https://registry.npmjs.org'
-        # Defaults to the user or organization that owns the workflow file
-        scope: '@inception-xr'
     - name: Get the version
       id: vars
       run: echo ::set-output name=tag::${GITHUB_REF#refs/*/}
