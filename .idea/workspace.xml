@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8a40efb-5141-4164-bd5d-c425d9acf85f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1kTptojpPU4aVIeCD7IHsHJcLuT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Mocha.update">
+    <configuration name="Unnamed" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" nameIsGenerated="true" port="9229">
+      <method v="2" />
+    </configuration>
+    <configuration name="update" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/test/commands/update.test.ts</test-file>
+      <test-names>
+        <name value="update" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Node.js/Chrome.Unnamed" />
+      <item itemvalue="Mocha.update" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.update" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8a40efb-5141-4164-bd5d-c425d9acf85f" name="Default Changelist" comment="" />
+      <created>1605734653855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605734653855</updated>
+      <workItem from="1605734655109" duration="13496000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605739948921">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="360" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1605739948921" />
+    <state width="1771" height="370" key="GridCell.Tab.0.bottom" timestamp="1605809026572">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1771" height="370" key="GridCell.Tab.0.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1605809026572" />
+    <state width="1771" height="370" key="GridCell.Tab.0.center" timestamp="1605809026571">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1771" height="370" key="GridCell.Tab.0.center/0.25.1792.1095@0.25.1792.1095" timestamp="1605809026571" />
+    <state width="1771" height="370" key="GridCell.Tab.0.left" timestamp="1605809026570">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1771" height="370" key="GridCell.Tab.0.left/0.25.1792.1095@0.25.1792.1095" timestamp="1605809026570" />
+    <state width="1771" height="370" key="GridCell.Tab.0.right" timestamp="1605809026571">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1771" height="370" key="GridCell.Tab.0.right/0.25.1792.1095@0.25.1792.1095" timestamp="1605809026571" />
+    <state width="1771" height="370" key="GridCell.Tab.1.bottom" timestamp="1605809026577">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1771" height="370" key="GridCell.Tab.1.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1605809026577" />
+    <state width="1771" height="370" key="GridCell.Tab.1.center" timestamp="1605809026575">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1771" height="370" key="GridCell.Tab.1.center/0.25.1792.1095@0.25.1792.1095" timestamp="1605809026575" />
+    <state width="1771" height="370" key="GridCell.Tab.1.left" timestamp="1605809026574">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1771" height="370" key="GridCell.Tab.1.left/0.25.1792.1095@0.25.1792.1095" timestamp="1605809026574" />
+    <state width="1771" height="370" key="GridCell.Tab.1.right" timestamp="1605809026576">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1771" height="370" key="GridCell.Tab.1.right/0.25.1792.1095@0.25.1792.1095" timestamp="1605809026576" />
+    <state width="1771" height="370" key="GridCell.Tab.2.bottom" timestamp="1605809026583">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1771" height="370" key="GridCell.Tab.2.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1605809026583" />
+    <state width="1771" height="370" key="GridCell.Tab.2.center" timestamp="1605809026581">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1771" height="370" key="GridCell.Tab.2.center/0.25.1792.1095@0.25.1792.1095" timestamp="1605809026581" />
+    <state width="1771" height="370" key="GridCell.Tab.2.left" timestamp="1605809026579">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1771" height="370" key="GridCell.Tab.2.left/0.25.1792.1095@0.25.1792.1095" timestamp="1605809026579" />
+    <state width="1771" height="370" key="GridCell.Tab.2.right" timestamp="1605809026583">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1771" height="370" key="GridCell.Tab.2.right/0.25.1792.1095@0.25.1792.1095" timestamp="1605809026583" />
+    <state width="1771" height="370" key="GridCell.Tab.3.bottom" timestamp="1605739951858">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1771" height="370" key="GridCell.Tab.3.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1605739951858" />
+    <state width="1771" height="370" key="GridCell.Tab.3.center" timestamp="1605739951858">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1771" height="370" key="GridCell.Tab.3.center/0.25.1792.1095@0.25.1792.1095" timestamp="1605739951858" />
+    <state width="1771" height="370" key="GridCell.Tab.3.left" timestamp="1605739951858">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1771" height="370" key="GridCell.Tab.3.left/0.25.1792.1095@0.25.1792.1095" timestamp="1605739951858" />
+    <state width="1771" height="370" key="GridCell.Tab.3.right" timestamp="1605739951858">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1771" height="370" key="GridCell.Tab.3.right/0.25.1792.1095@0.25.1792.1095" timestamp="1605739951858" />
+    <state x="561" y="269" width="670" height="676" key="search.everywhere.popup" timestamp="1605740628145">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="561" y="269" width="670" height="676" key="search.everywhere.popup/0.25.1792.1095@0.25.1792.1095" timestamp="1605740628145" />
+  </component>
+</project>
